@@ -1,0 +1,580 @@
+fileFormatVersion: 2
+guid: c9f25271678ad5b4e8899e76393f7c40
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7810814689558352980
+    second: Lumi_0
+  - first:
+      213: -6893293090229298529
+    second: Lumi_1
+  - first:
+      213: -5871403423793490943
+    second: Lumi_2
+  - first:
+      213: 5075047390884642549
+    second: Lumi_3
+  - first:
+      213: 1284866169439035425
+    second: Lumi_4
+  - first:
+      213: -5452666462497996064
+    second: Lumi_5
+  - first:
+      213: -4527772024970301221
+    second: Lumi_6
+  - first:
+      213: 7987257359121885937
+    second: Lumi_7
+  - first:
+      213: -2252797936619406310
+    second: Lumi_8
+  - first:
+      213: -852999716201264351
+    second: Lumi_9
+  - first:
+      213: 4048505394022539696
+    second: Lumi_10
+  - first:
+      213: -1318156214710151479
+    second: Lumi_11
+  - first:
+      213: 8666616651939009106
+    second: Lumi_12
+  - first:
+      213: 6940463063032862101
+    second: Lumi_0
+  - first:
+      213: 6681879624200934807
+    second: Lumi_1
+  - first:
+      213: -840994080415479994
+    second: Lumi_2
+  - first:
+      213: -780464463106373100
+    second: Lumi_3
+  - first:
+      213: -3101127735497827115
+    second: Lumi_4
+  - first:
+      213: -3683059410359879581
+    second: Lumi_5
+  - first:
+      213: 3126857725323697333
+    second: Lumi_6
+  - first:
+      213: -7250875604901476832
+    second: Lumi_7
+  - first:
+      213: 7783062362732154481
+    second: Lumi_8
+  - first:
+      213: -6767812765332062068
+    second: Lumi_9
+  - first:
+      213: 7015816919110544331
+    second: Lumi_10
+  - first:
+      213: 4963164154904059972
+    second: Lumi_11
+  - first:
+      213: -462853663673767638
+    second: Lumi_12
+  - first:
+      213: -4640810643100535386
+    second: Lumi_13
+  - first:
+      213: 7156349649167644350
+    second: Lumi_14
+  - first:
+      213: -3960413233691185104
+    second: Lumi_15
+  - first:
+      213: 3229062972773628342
+    second: Lumi_16
+  - first:
+      213: 5721552867718887462
+    second: Lumi_17
+  - first:
+      213: -2164031549865520724
+    second: Lumi_18
+  - first:
+      213: -3869174693027137102
+    second: Lumi_19
+  - first:
+      213: -4775698599988676276
+    second: Lumi_20
+  - first:
+      213: -3728455636742554895
+    second: Lumi_21
+  - first:
+      213: 544049841569045176
+    second: Lumi_22
+  - first:
+      213: -1075201288770696879
+    second: Lumi_23
+  - first:
+      213: 1964253803013107887
+    second: Lumi_24
+  - first:
+      213: -1537731075957833209
+    second: Lumi_25
+  - first:
+      213: -9187108057053665248
+    second: Lumi_13
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Lumi_0
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 498
+        width: 111
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5951bc8326a715060800000000000000
+      internalID: 6940463063032862101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lumi_1
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 498
+        width: 111
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 795da68bd1ecabc50800000000000000
+      internalID: 6681879624200934807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lumi_2
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 498
+        width: 111
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64701a2f6503454f0800000000000000
+      internalID: -840994080415479994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lumi_3
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 498
+        width: 112
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41a8ab4b4bb3b25f0800000000000000
+      internalID: -780464463106373100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lumi_4
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 498
+        width: 111
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dc5a8a41c496f4d0800000000000000
+      internalID: -3101127735497827115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lumi_5
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 303
+        width: 127
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 368f6dedaf423ecc0800000000000000
+      internalID: -3683059410359879581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lumi_6
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 303
+        width: 130
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bcda1dc884d46b20800000000000000
+      internalID: 3126857725323697333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lumi_7
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 303
+        width: 127
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0264d4bdd07bf5b90800000000000000
+      internalID: -7250875604901476832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lumi_8
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 303
+        width: 126
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17ecc538bfdf20c60800000000000000
+      internalID: 7783062362732154481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lumi_9
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 200
+        width: 111
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c804708b526e312a0800000000000000
+      internalID: -6767812765332062068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lumi_10
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 202
+        width: 87
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcb62c801503d5160800000000000000
+      internalID: 7015816919110544331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lumi_11
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 202
+        width: 87
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 440220fb083b0e440800000000000000
+      internalID: 4963164154904059972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lumi_12
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 202
+        width: 87
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a29acb19b0d9399f0800000000000000
+      internalID: -462853663673767638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lumi_13
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 200
+        width: 112
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 028ef22c5e5d08080800000000000000
+      internalID: -9187108057053665248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures:
+    - texture: {fileID: 2800000, guid: 99fb8a4d9a458bb4d9656d9ff1ca8fde, type: 3}
+      name: _Emission
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
